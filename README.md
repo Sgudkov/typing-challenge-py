@@ -1,6 +1,7 @@
 # Typing challenge
 
 This project contains a collection of challenges and exercises for practicing advanced Python concepts, including type hints, generics, and protocol-oriented programming.
+Repo copied from https://github.com/laike9m/Python-Type-Challenges
 
 ## Installation
 
