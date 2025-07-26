@@ -1,4 +1,4 @@
-# homework-20250205
+# Typing challenge
 
 This project contains a collection of challenges and exercises for practicing advanced Python concepts, including type hints, generics, and protocol-oriented programming.
 
